@@ -39,13 +39,13 @@ This is a list of variables included in the original export. The final version o
 
 
 ### Data Extraction
-Extracted datasets are CSV files from various websites.
+- Extracted datasets are CSV files from various websites.
 
-Streamline the first 5 years to reduce the dataloading (2019 - 2023). 12am 31st Dec 2018 - 6:18pm 11 Nov 2024. This was the time at which the data was extracted. 
+- Streamline the first 5 years to reduce the dataloading (2019 - 2023). 12am 31st Dec 2018 - 6:18pm 11 Nov 2024. This was the time at which the data was extracted. 
 
 ### Data Cleaning 
-Date and time column formatting.
+- Date and time column formatting.
 
-Delete columns and fill missing data with n/a. (see the notebook for cleaning steps)
+- Delete columns and fill missing data with n/a. (see the notebook for cleaning steps)
 
-Limit the datasets to only 5 years.
+- Limit the datasets to only 5 years.
